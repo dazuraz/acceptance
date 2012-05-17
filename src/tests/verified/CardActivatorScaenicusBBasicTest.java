@@ -36,6 +36,7 @@ public class CardActivatorScaenicusBBasicTest extends Test {
 		 */
 
 		initialisePlayerFields ();
+		transferFieldsToState();
 		assertFields();
 
 		/*
